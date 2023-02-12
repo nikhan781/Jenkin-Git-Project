@@ -8,3 +8,10 @@
 2023-02-12 16:02:512 INFO  HomePage :26 - Clicking on Service link[[ChromeDriver: chrome on WINDOWS (03c062146d79b5ee30f5bf2d8d3454cc)] -> link text: Services]
 2023-02-12 16:02:525 INFO  HomePage :31 - Clicking on Service link
 2023-02-12 16:02:550 INFO  HomePage :37 - Checking link is available[[ChromeDriver: chrome on WINDOWS (03c062146d79b5ee30f5bf2d8d3454cc)] -> link text: Enterprise Solutions]
+2023-02-12 18:02:592 INFO  HomePage :26 - Clicking on Service link[[ChromeDriver: chrome on WINDOWS (ff2c741d88e20d63bd604c70a423b9e7)] -> link text: Services]
+2023-02-12 18:02:612 INFO  HomePage :31 - Clicking on Service link
+2023-02-12 18:02:653 INFO  HomePage :37 - Checking link is available[[ChromeDriver: chrome on WINDOWS (ff2c741d88e20d63bd604c70a423b9e7)] -> link text: Enterprise Solutions]
+2023-02-12 18:02:729 INFO  HomePage :31 - Clicking on Service link[[ChromeDriver: chrome on WINDOWS (6ef7525bfe63b524b1c6d8f0179d4324)] -> link text: Services]
+2023-02-12 18:02:753 INFO  HomePage :36 - Clicking on Service link
+2023-02-12 18:02:804 INFO  HomePage :42 - Checking link is available[[ChromeDriver: chrome on WINDOWS (6ef7525bfe63b524b1c6d8f0179d4324)] -> link text: Enterprise Solutions]
+2023-02-12 18:02:334 INFO  HomePage :48 - Clicking on contact link[[ChromeDriver: chrome on WINDOWS (de194f6259afb458d50b95e6c0e470ce)] -> link text: Contact]
