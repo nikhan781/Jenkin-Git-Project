@@ -26,4 +26,14 @@ public class HomePageSteps {
     public void iVerifyThatEnterpriseSolutionsLinkIsAvailable() {
         Assert.assertTrue(new HomePage().verifyEnterpriseLinkIsVisible());
     }
+
+    @When("^I click on Contact Link$")
+    public void iClickOnContactLink() {
+        new HomePage().clickOnContactLink();
+
+    }
+
+    @Then("^I should be redirected to Contact page$")
+    public void iShouldBeRedirectedToContactPage() {
+    }
 }

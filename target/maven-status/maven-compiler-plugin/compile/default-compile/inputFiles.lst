@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\pages\test.java
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\pages\HomePage.java
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\utility\Utilities.java
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\drivermanager\ManageBrowser.java
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\propertyreader\PropertyReader.java
 C:\Users\nik_7\IdeaProjects\qa-digital-pagefactory-cucumber-practice\src\main\java\co\uk\qai\digital\pages\TestAgainAndAgain.java
+=======
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\drivermanager\ManageBrowser.java
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\pages\HomePage.java
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\utility\Utilities.java
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\pages\test.java
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\pages\TestAgainAndAgain.java
+C:\Software Testing\nauman github\ProjectJenkins\src\main\java\co\uk\qai\digital\propertyreader\PropertyReader.java
+>>>>>>> 3b38a37d19405717303e372e04a3831f6da611af

@@ -21,6 +21,11 @@ public class HomePage extends Utilities {
     @FindBy(linkText = "Enterprise Solutions")
     WebElement entSer;
 
+    @CacheLookup
+    @FindBy(linkText = "Contact")
+    WebElement contactlink;
+
+
     public void clickOnServiceLink() {
         clickOnElement(service);
         log.info("Clicking on Service link" + service.toString());
@@ -36,5 +41,11 @@ public class HomePage extends Utilities {
         elementIsVisible(entSer);
         log.info("Checking link is available" + entSer.toString());
         return true;
+    }
+
+    public void clickOnContactLink(){
+        clickOnElement(contactlink);
+        log.info("Clicking on contact link" + contactlink.toString());
+
     }
 }
