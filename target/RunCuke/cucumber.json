@@ -1,0 +1,92 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2748265300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "As a user I should navigate to Service Page",
+        "description": "",
+        "id": "homepage-functionality-test;as-a-user-i-should-navigate-to-service-page",
+        "after": [
+          {
+            "result": {
+              "duration": 584976200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 55217300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 369200100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on Services link",
+            "match": {
+              "location": "HomePageSteps.iClickOnServicesLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9550100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I should navigate to Services page successfully",
+            "match": {
+              "location": "HomePageSteps.iShouldNavigateToServicesPageSuccessfully()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 24421400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I verify that \u0027Enterprise Solutions\u0027 link is available",
+            "match": {
+              "location": "HomePageSteps.iVerifyThatEnterpriseSolutionsLinkIsAvailable()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "HomePage Functionality Test",
+    "description": "",
+    "id": "homepage-functionality-test",
+    "keyword": "Feature",
+    "uri": "homePage.feature"
+  }
+]
